@@ -1,0 +1,17 @@
+D:\IFRO\poo\validacaoCpf\validacaoCpf\bin\Debug\net6.0-windows\validacaoCpf.exe
+D:\IFRO\poo\validacaoCpf\validacaoCpf\bin\Debug\net6.0-windows\validacaoCpf.deps.json
+D:\IFRO\poo\validacaoCpf\validacaoCpf\bin\Debug\net6.0-windows\validacaoCpf.runtimeconfig.json
+D:\IFRO\poo\validacaoCpf\validacaoCpf\bin\Debug\net6.0-windows\validacaoCpf.dll
+D:\IFRO\poo\validacaoCpf\validacaoCpf\bin\Debug\net6.0-windows\validacaoCpf.pdb
+D:\IFRO\poo\validacaoCpf\validacaoCpf\obj\Debug\net6.0-windows\validacaoCpf.csproj.AssemblyReference.cache
+D:\IFRO\poo\validacaoCpf\validacaoCpf\obj\Debug\net6.0-windows\validacaoCpf.Form1.resources
+D:\IFRO\poo\validacaoCpf\validacaoCpf\obj\Debug\net6.0-windows\validacaoCpf.csproj.GenerateResource.cache
+D:\IFRO\poo\validacaoCpf\validacaoCpf\obj\Debug\net6.0-windows\validacaoCpf.GeneratedMSBuildEditorConfig.editorconfig
+D:\IFRO\poo\validacaoCpf\validacaoCpf\obj\Debug\net6.0-windows\validacaoCpf.AssemblyInfoInputs.cache
+D:\IFRO\poo\validacaoCpf\validacaoCpf\obj\Debug\net6.0-windows\validacaoCpf.AssemblyInfo.cs
+D:\IFRO\poo\validacaoCpf\validacaoCpf\obj\Debug\net6.0-windows\validacaoCpf.csproj.CoreCompileInputs.cache
+D:\IFRO\poo\validacaoCpf\validacaoCpf\obj\Debug\net6.0-windows\validacaoCpf.dll
+D:\IFRO\poo\validacaoCpf\validacaoCpf\obj\Debug\net6.0-windows\refint\validacaoCpf.dll
+D:\IFRO\poo\validacaoCpf\validacaoCpf\obj\Debug\net6.0-windows\validacaoCpf.pdb
+D:\IFRO\poo\validacaoCpf\validacaoCpf\obj\Debug\net6.0-windows\validacaoCpf.genruntimeconfig.cache
+D:\IFRO\poo\validacaoCpf\validacaoCpf\obj\Debug\net6.0-windows\ref\validacaoCpf.dll
